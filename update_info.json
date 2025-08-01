@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "-",
+  "changelog": "New features:\n- Added feature X\n- Improved performance for Y\n\nBug fixes:\n- Fixed crash on older devices\n- Resolved issue Z"
+}
